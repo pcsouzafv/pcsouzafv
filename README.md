@@ -55,6 +55,7 @@ disponivel_para: "Cloud, Infraestrutura, DevOps, SRE e Observabilidade"
 
 | Projeto | Área | Por que olhar |
 | --- | --- | --- |
+| [Curso_Claude.ia_2026](https://github.com/pcsouzafv/Curso_Claude.ia_2026) | IA / Claude API | 🤖 Primeiro curso completo sobre a API Claude (Anthropic) em Português BR. |
 | [Script_Linux_Debian](https://github.com/pcsouzafv/Script_Linux_Debian) | Automação / IA / Linux | Scripts e automações para atendimento, monitoramento e rotinas de administração. |
 | [MonitoringVMSS](https://github.com/pcsouzafv/MonitoringVMSS) | Azure / Observabilidade | Estudos e práticas de monitoramento para ambientes escaláveis. |
 | [Curso-docker-kubernetes](https://github.com/pcsouzafv/Curso-docker-kubernetes) | Containers / DevOps | Base de estudos e laboratório com Docker e Kubernetes. |
