@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:2563eb,100:22c55e&text=Ricardo%20Souza&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Cloud%20%7C%20Infraestrutura%20%7C%20Observabilidade%20%7C%20Seguranca&descAlignY=58&descSize=16" alt="Ricardo Souza - Cloud, Infraestrutura, Observabilidade e Segurança" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:2563eb,100:22c55e&text=Ricardo%20Santana&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Cloud%20%7C%20Infraestrutura%20%7C%20Observabilidade%20%7C%20Seguranca&descAlignY=58&descSize=16" alt="Ricardo Santana - Cloud, Infraestrutura, Observabilidade e Segurança" />
 
   <a href="https://github.com/pcsouzafv?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pcsouzafv?style=for-the-badge&logo=github&color=22c55e&labelColor=0f172a">
@@ -8,13 +8,13 @@
   <a href="https://github.com/pcsouzafv?tab=repositories">
     <img alt="Repositórios públicos" src="https://img.shields.io/badge/repos_publicos-24-2563eb?style=for-the-badge&logo=github&labelColor=0f172a">
   </a>
-  <a href="https://www.linkedin.com/in/pcricardo2024/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pcricardo2024-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0f172a">
+  <a href="https://www.linkedin.com/in/ricardosantana2026">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ricardosantana2026-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0f172a">
   </a>
 
 </div>
 
-## Olá, eu sou Ricardo Souza
+## Olá, eu sou Ricardo Santana
 
 Profissional de infraestrutura, cloud, segurança operacional e observabilidade, com foco em ambientes confiáveis, automação, resposta a incidentes e documentação clara.
 
@@ -67,8 +67,8 @@ disponivel_para: "Cloud, Infraestrutura, DevOps, SRE e Observabilidade"
 
 <div align="center">
 
-  <img height="168" src="https://streak-stats.demolab.com/?user=pcsouzafv&theme=github_dark&hide_border=true&card_width=495&date_format=j%20M%5B%20Y%5D" alt="Estatísticas do GitHub de Ricardo Souza" />
-  <img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pcsouzafv&theme=github_dark" alt="Linguagens mais usadas por Ricardo Souza" />
+  <img height="168" src="https://streak-stats.demolab.com/?user=pcsouzafv&theme=github_dark&hide_border=true&card_width=495&date_format=j%20M%5B%20Y%5D" alt="Estatísticas do GitHub de Ricardo Santana" />
+  <img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pcsouzafv&theme=github_dark" alt="Linguagens mais usadas por Ricardo Santana" />
 
 </div>
 
@@ -92,7 +92,7 @@ disponivel_para: "Cloud, Infraestrutura, DevOps, SRE e Observabilidade"
   <a href="mailto:rickpcsouza@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/E--mail-rickpcsouza%40hotmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a">
   </a>
-  <a href="https://www.linkedin.com/in/pcricardo2024/">
+  <a href="https://www.linkedin.com/in/ricardosantana2026">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a">
   </a>
   <a href="https://wa.me/5532999384534">
